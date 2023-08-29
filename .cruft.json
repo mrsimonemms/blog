@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/mrsimonemms/new",
+  "commit": "7716cfa6abc8b31424ad8f8f3e77a84296bb2cb8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "blog",
+      "description": "Easily create your own blog",
+      "author": "Simon Emms <simon@simonemms.com>",
+      "type": "svelte",
+      "_template": "https://github.com/mrsimonemms/new"
+    }
+  },
+  "directory": "js",
+  "skip": [
+    ".git"
+  ]
+}
